@@ -1,8 +1,9 @@
 ## 📋 아이들을 위한 이야기 생성 앱 서비스
 
-- 시연영상 유튜브 링크입니다.
+### 시연영상 유튜브 링크입니다.
+### (https://youtu.be/ff2h3MvATlo)
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-[유튜브 링크 연결하기](https://youtu.be/ff2h3MvATlo)
+
 
 
 아이들을 위한 이야기 생성 앱 서비스입니다.
