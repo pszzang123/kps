@@ -17,4 +17,6 @@ Open AI API를 통하여 입력한 주제를 통해 이야기를 생성해내고
 <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
 
 
-## ! 해당 코드를 통하여 시연하고자 할 때, 카카오 API KEY와 OPEN AI API KEY를 발급받아 입력하여야 합니다.
+
+
+####  해당 코드를 통하여 시연하고자 할 때, 카카오 API KEY와 OPEN AI API KEY를 발급받아 입력하여야 합니다.
