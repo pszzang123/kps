@@ -20,3 +20,4 @@ Open AI API를 통하여 입력한 주제를 통해 이야기를 생성해내고
 
 
 ####  해당 코드를 통하여 시연하고자 할 때, 카카오 API KEY와 OPEN AI API KEY를 발급받아 입력하여야 합니다.
+<strong style="color: red;">해당 코드를 통하여 시연하고자 할 때, 카카오 API KEY와 OPEN AI API KEY를 발급받아 입력하여야 합니다.</strong>
